@@ -36,7 +36,7 @@ To install and run WordScramble on your iOS device:
 6. Challenge yourself with increasing levels and word difficulties.
 
 ## Contact
-For questions or feedback regarding WordScramble, please contact [your-email] or [your-website].
+For questions or feedback regarding WordScramble, please contact JamesConnorHill@gmail.com or message me on LinkedIn: https://www.linkedin.com/in/connor-j-hill/.
 
 ## Technologies Used
 - SwiftUI
